@@ -5,6 +5,7 @@ there is another sentence 2.
 git has mutable index called stage
 git has many extended software
 hope everything will be ok?
+ojbk
 
 
 
