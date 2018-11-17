@@ -2,3 +2,4 @@ there is a sentence 1.
 inbewteen
 inbetween2
 there is another sentence 2.
+git has mutable index called stage
