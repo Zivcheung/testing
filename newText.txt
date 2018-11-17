@@ -1,2 +1,6 @@
 branch content1
-new branch are simple
+<<<<<<< HEAD
+new branch is simple
+=======
+new branch is simple
+>>>>>>> feature1
