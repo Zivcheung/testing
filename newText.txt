@@ -7,3 +7,6 @@ new branch is simple
 
 temperature is hot down here!
 the air is quiet in the room, how do you think?
+
+rebase 2
+
