@@ -4,3 +4,6 @@ new branch is simple
 =======
 new branch is simple
 >>>>>>> feature1
+
+
+temperature is hot down here!
