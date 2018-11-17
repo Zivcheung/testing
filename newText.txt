@@ -1,1 +1,2 @@
 branch content1
+new branch is simple
