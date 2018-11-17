@@ -4,6 +4,10 @@ inbetween2
 there is another sentence 2.
 git has mutable index called stage
 git has many extended software
+<<<<<<< HEAD
 hope everything will not be ok
+=======
+hope everything will not be ok
+>>>>>>> feature2
 
 
